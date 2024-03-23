@@ -1,108 +1,1391 @@
 {
     "decks": [
         {
+            "deckID": 1,
             "name": "Transportation",
-            "deckDescription": "Description of Transportation Deck",
-            "deckRules": "Rules of Transportation Deck",
+            "deckDescription": "Transportation is the movement of people or goods from one place to another. It involves various modes such as cars, buses, trains, airplanes, and ships. This topic covers vocabulary related to different means of transportation.",
+            "deckRules": "Can you match each mode of transportation with its corresponding description?",
             "cards": [
                 {
-                    "term": "Car",
+                    "kartuID": 1,
+                    "term": "car",
                     "description": "A vehicle with four wheels that is powered by an engine and used for transportation."
                 },
                 {
-                    "term": "Bus",
+                    "kartuID": 2,
+                    "term": "bus",
                     "description": "A large vehicle designed to carry many passengers, typically along a fixed route."
                 },
                 {
-                    "term": "Train",
+                    "kartuID": 3,
+                    "term": "train",
                     "description": "A connected series of railroad cars propelled along a track by a locomotive or self-propelled engine."
                 },
                 {
-                    "term": "Bicycle",
+                    "kartuID": 4,
+                    "term": "bicycle",
                     "description": "A vehicle with two wheels that is propelled by pedals and steered with handlebars."
                 },
                 {
-                    "term": "Motorcycle",
+                    "kartuID": 5,
+                    "term": "motorcycle",
                     "description": "A two-wheeled vehicle that is powered by an engine and typically has a saddle for the rider."
                 },
                 {
-                    "term": "Taxi",
+                    "kartuID": 6,
+                    "term": "taxi",
                     "description": "A vehicle that can be hired to transport people from one place to another for a fare."
                 },
                 {
-                    "term": "Subway",
+                    "kartuID": 7,
+                    "term": "subway",
                     "description": "An underground electric railway system in a city, consisting of interconnected tunnels and stations."
                 },
                 {
-                    "term": "Airplane",
+                    "kartuID": 8,
+                    "term": "airplane",
                     "description": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces."
                 },
                 {
-                    "term": "Helicopter",
+                    "kartuID": 9,
+                    "term": "helicopter",
                     "description": "A type of aircraft that derives its lift from blades that rotate around a central mast."
                 },
                 {
-                    "term": "Boat",
+                    "kartuID": 10,
+                    "term": "boat",
                     "description": "A small vessel for traveling on water, propelled by oars, sails, or an engine."
                 },
                 {
-                    "term": "Ship",
+                    "kartuID": 11,
+                    "term": "ship",
                     "description": "A large vessel for transporting people or goods by sea."
                 },
                 {
-                    "term": "Ferry",
+                    "kartuID": 12,
+                    "term": "ferry",
                     "description": "A boat or ship used to transport passengers and sometimes vehicles across a body of water."
                 },
                 {
-                    "term": "Truck",
+                    "kartuID": 13,
+                    "term": "truck",
                     "description": "A large, heavy motor vehicle used for transporting goods, materials, or troops."
                 },
                 {
-                    "term": "Van",
+                    "kartuID": 14,
+                    "term": "van",
                     "description": "A covered vehicle used for transporting goods or people, typically without windows at the sides."
                 },
                 {
-                    "term": "Bike",
+                    "kartuID": 15,
+                    "term": "bike",
                     "description": "A short form of 'bicycle', a vehicle with two wheels that is propelled by pedals."
                 },
                 {
-                    "term": "Motorbike",
+                    "kartuID": 16,
+                    "term": "motorbike",
                     "description": "A short form of 'motorcycle', a two-wheeled vehicle that is powered by an engine."
                 },
                 {
-                    "term": "Scooter",
+                    "kartuID": 17,
+                    "term": "scooter",
                     "description": "A small, typically two-wheeled vehicle propelled by an electric motor or a gasoline engine."
                 },
                 {
-                    "term": "Jet",
+                    "kartuID": 18,
+                    "term": "jet",
                     "description": "A type of aircraft propelled by jet engines, used for transporting passengers or military purposes."
                 },
                 {
-                    "term": "Tram",
+                    "kartuID": 19,
+                    "term": "tram",
                     "description": "A passenger vehicle that runs on tracks laid in a street, typically serving urban areas."
                 },
                 {
-                    "term": "Cruise Ship",
+                    "kartuID": 20,
+                    "term": "cruise ship",
                     "description": "A large passenger ship used mainly for pleasure voyages, typically with facilities for recreation and entertainment."
                 }
             ]
         },
         {
+            "deckID": 2,
             "name": "Food",
-            "deckDescription": "Description of Food Deck",
-            "deckRules": "Rules of Food Deck",
+            "deckDescription": "Food is any substance consumed to provide nutritional support for an organism. It includes a wide variety of items such as fruits, vegetables, meats, grains, and dairy products. This topic covers vocabulary related to different types of food and ingredients.",
+            "deckRules": "Can you identify whether each item is a fruit, vegetable, grain, or protein?",
             "cards": [
                 {
-                    "term": "Pizza",
-                    "description": "A savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients such as anchovies, mushrooms, onions, olives, pineapple, meat, etc."
+                    "kartuID": 1,
+                    "term": "apple",
+                    "description": "A round fruit with red or green skin and crisp flesh."
                 },
                 {
-                    "term": "Burger",
-                    "description": "A sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun."
+                    "kartuID": 2,
+                    "term": "banana",
+                    "description": "A long curved fruit with a yellow skin and soft, sweet flesh."
                 },
                 {
-                    "term": "Sushi",
-                    "description": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold cooked rice served with a garnish of raw fish, vegetables, or egg."
+                    "kartuID": 3,
+                    "term": "bread",
+                    "description": "A staple food made from flour, water, and yeast, typically baked and often sliced before eating."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "cheese",
+                    "description": "A dairy product made from pressed milk curds."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "chocolate",
+                    "description": "A sweet food made from roasted and ground cacao seeds, typically sweetened and flavored."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "cake",
+                    "description": "A sweet baked food made from flour, sugar, eggs, and other ingredients."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "pasta",
+                    "description": "Italian-style food made from a mixture of flour, eggs, and water, formed into various shapes and typically cooked by boiling."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "rice",
+                    "description": "Small grains of a cereal grass, widely cultivated as a source of food, especially in Asia."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "pizza",
+                    "description": "A savory dish of Italian origin, consisting of a usually round, flattened base of dough topped with tomatoes, cheese, and various other ingredients."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "salad",
+                    "description": "A mixture of raw vegetables, fruit, or meat, typically served with a dressing."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "soup",
+                    "description": "A liquid dish, typically made by boiling meat, fish, or vegetables in stock or water."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "sandwich",
+                    "description": "A food item consisting of two or more slices of bread with one or more fillings between them."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "hamburger",
+                    "description": "A flat, round sandwich consisting of a cooked beef patty in a bun, often served with various condiments and toppings."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "fries",
+                    "description": "Short for French fries, long, thin pieces of potato that have been deep-fried until crispy and golden brown."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "cookie",
+                    "description": "A sweet baked food made from dough and typically containing flour, sugar, and often chocolate chips or nuts."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "ice cream",
+                    "description": "A frozen dessert made from cream, sugar, and flavorings."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "sausage",
+                    "description": "A highly seasoned minced meat, usually stuffed into a casing, often made in cylindrical form."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "steak",
+                    "description": "A slice of meat, typically beef, cooked by broiling, frying, or grilling."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "fish",
+                    "description": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water."
+                }
+            ]
+        },
+        {
+            "deckID": 3,
+            "name": "Travel",
+            "deckDescription": "Travel involves moving from one place to another for various purposes such as tourism, business, or visiting family and friends. It includes planning trips, booking accommodations, and exploring new destinations.",
+            "deckRules": "Can you match each travel-related term with its definition or use in a sentence?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "passport",
+                    "description": "An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "ticket",
+                    "description": "A piece of paper or small card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "hotel",
+                    "description": "An establishment providing accommodations, meals, and other services for travelers and tourists."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "flight",
+                    "description": "A journey made by air, especially in an airplane."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "reservation",
+                    "description": "An arrangement in which something, such as a seat or room, is reserved for a particular person."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "luggage",
+                    "description": "Bags and other containers containing personal belongings, typically used when traveling."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "airport",
+                    "description": "A place where aircraft regularly take off and land, with facilities for passengers."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "taxi",
+                    "description": "A vehicle that can be hired to transport people from one place to another for a fare."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "train station",
+                    "description": "A place where trains regularly stop to load or unload passengers or goods."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "bus station",
+                    "description": "A place where buses regularly stop to pick up and drop off passengers."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "rental car",
+                    "description": "A car that can be hired for a specified period and for a specified fee."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "map",
+                    "description": "A diagrammatic representation of an area showing physical features, cities, roads, etc."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "tourist",
+                    "description": "A person who is traveling or visiting a place for pleasure."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "guidebook",
+                    "description": "A book of information for tourists, typically arranged in alphabetical order, containing details of hotels, restaurants, and places of interest in a particular area."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "sightseeing",
+                    "description": "The activity of visiting places of interest in a particular location."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "foreign currency",
+                    "description": "The currency used in a country other than one's own."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "guide",
+                    "description": "A person who leads or directs others on a journey, especially in an unfamiliar place."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "travel agency",
+                    "description": "A business that arranges accommodations, transportation, and other travel services for travelers."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "hostel",
+                    "description": "An inexpensive lodging facility, typically offering dormitory-style accommodations and shared facilities."
+                },
+                {
+                    "kartuID": 20,
+                    "term": "tour",
+                    "description": "A journey for pleasure in which several different places are visited."
+                }
+            ]
+        },
+        {
+            "deckID": 4,
+            "name": "Vacation",
+            "deckDescription": "A vacation is a period of time spent away from home or work for relaxation or recreation. It often involves visiting new places, engaging in leisure activities, and spending time with family or friends.",
+            "deckRules": "Can you identify whether each activity is typically done during a vacation or not?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "beach",
+                    "description": "A sandy or pebbly shore by the ocean, sea, or lake, typically with good weather for swimming and sunbathing."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "resort",
+                    "description": "A place where people go for rest, relaxation, or recreation, often with accommodations, restaurants, and other amenities."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "sunscreen",
+                    "description": "A lotion, spray, or other product that protects the skin from the sun's harmful ultraviolet rays."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "sunglasses",
+                    "description": "Glasses with tinted lenses designed to protect the eyes from sunlight."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "swimsuit",
+                    "description": "A garment worn for swimming, typically consisting of a top and bottom or a one-piece."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "pool",
+                    "description": "A small area of still water, typically one formed naturally."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "island",
+                    "description": "A piece of land surrounded by water."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "cruise",
+                    "description": "A journey on a large ship for pleasure, typically including stops at various ports."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "relaxation",
+                    "description": "The state of being free from tension and anxiety."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "excursion",
+                    "description": "A short journey or trip, especially one taken as a leisure activity."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "adventure",
+                    "description": "An unusual and exciting experience or activity."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "souvenir",
+                    "description": "A keepsake or memento of a place visited, typically purchased as a reminder of the trip."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "hiking",
+                    "description": "The activity of walking in natural environments, typically on trails or footpaths in the countryside."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "camping",
+                    "description": "The activity of spending a vacation living in a tent or camper outdoors."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "picnic",
+                    "description": "An outing or occasion that involves taking a packed meal to be eaten outdoors."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "sightseeing",
+                    "description": "The activity of visiting places of interest in a particular location."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "relax",
+                    "description": "To rest or engage in activities that promote calmness and tranquility."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "tourist attraction",
+                    "description": "A place or feature that draws visitors and tourists."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "jet lag",
+                    "description": "A temporary sleep disorder caused by rapid travel across multiple time zones."
+                }
+            ]
+        },
+        {
+            "deckID": 5,
+            "name": "Profession",
+            "deckDescription": "A profession is a type of job or occupation that requires specialized training, skills, and knowledge. It includes various fields such as medicine, education, engineering, law, and business.",
+            "deckRules": "Can you match each profession with its corresponding description or required skills?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "doctor",
+                    "description": "A person qualified to treat people who are ill or injured, especially one who has a medical degree and a license to practice."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "teacher",
+                    "description": "A person who teaches, especially in a school."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "engineer",
+                    "description": "A person who designs, builds, or maintains engines, machines, or public works."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "lawyer",
+                    "description": "A person who practices or studies law, especially one who represents clients in court cases."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "nurse",
+                    "description": "A person trained to care for the sick or infirm, especially in a hospital."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "accountant",
+                    "description": "A person who keeps or inspects financial accounts."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "architect",
+                    "description": "A person who designs buildings and in many cases also supervises their construction."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "police officer",
+                    "description": "A member of a police force, especially one who is tasked with preventing and detecting crime and maintaining public order."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "firefighter",
+                    "description": "A person whose job is to extinguish fires."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "chef",
+                    "description": "A professional cook, typically the chief cook in a restaurant or hotel."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "artist",
+                    "description": "A person who creates paintings or drawings as a profession or hobby."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "musician",
+                    "description": "A person who plays a musical instrument, especially as a profession, or is musically talented."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "journalist",
+                    "description": "A person who writes for newspapers, magazines, or news websites or prepares news to be broadcast."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "programmer",
+                    "description": "A person who writes computer programs."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "scientist",
+                    "description": "A person who is studying or has expert knowledge of one or more of the natural or physical sciences."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "entrepreneur",
+                    "description": "A person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "electrician",
+                    "description": "A person who installs, operates, maintains, or repairs electrical equipment or wiring."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "mechanic",
+                    "description": "A person who repairs and maintains machinery, motors, and other mechanical equipment."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "plumber",
+                    "description": "A person who installs and repairs the pipes and fittings of water supply, sanitation, or heating systems."
+                }
+            ]
+        },
+        {
+            "deckID": 6,
+            "name": "School",
+            "deckDescription": "School is an institution designed for the teaching of students under the direction of teachers. It includes classrooms, teachers, students, subjects, and educational activities.",
+            "deckRules": "Can you fill in the blanks with the correct school-related term for each definition or scenario provided?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "student",
+                    "description": "A person who is studying at a school or college."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "teacher",
+                    "description": "A person who teaches, especially in a school."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "classroom",
+                    "description": "A room in a school where lessons take place."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "homework",
+                    "description": "Schoolwork that a student is required to do at home."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "test",
+                    "description": "A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "exam",
+                    "description": "A formal test of a person's knowledge or proficiency in a subject or skill."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "subject",
+                    "description": "A particular area of study or branch of knowledge."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "book",
+                    "description": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "pencil",
+                    "description": "A thin cylindrical graphite writing tool, typically encased in wood, used for marking, drawing, or writing."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "backpack",
+                    "description": "A bag with shoulder straps that allow it to be carried on one's back, typically made of canvas or nylon, used to carry personal belongings, especially books."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "desk",
+                    "description": "A piece of furniture with a flat or sloped surface for writing or working on, typically with drawers or other compartments."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "chalkboard",
+                    "description": "A blackboard, typically one mounted on a wall or easel, used with chalk to write on."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "whiteboard",
+                    "description": "A glossy white surface on which something is written, especially with colored markers, as used in schools or meetings."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "principal",
+                    "description": "The person with the highest authority or most important position in an organization, institution, or group."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "classmate",
+                    "description": "A person who is in the same class as another person at school or college."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "notebook",
+                    "description": "A book with blank pages for writing notes."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "schoolbag",
+                    "description": "A bag used by students to carry books and other items to school."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "playground",
+                    "description": "An outdoor area provided for children to play in, especially at a school."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "uniform",
+                    "description": "A distinctive set of clothing worn to identify members of a group or organization."
+                },
+                {
+                    "kartuID": 20,
+                    "term": "lesson",
+                    "description": "A period of learning or teaching, typically one in which a particular subject or skill is studied."
+                }
+            ]
+        },
+        {
+            "deckID": 7,
+            "name": "Bedroom",
+            "deckDescription": "A bedroom is a room in a house or apartment where people sleep and relax. It typically contains furniture such as a bed, dresser, nightstand, and closet.",
+            "deckRules": "Can you label each item found in a bedroom with its correct name or function?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "bed",
+                    "description": "A piece of furniture for sleep or rest, typically a mattress supported by a frame."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "pillow",
+                    "description": "A rectangular cloth bag stuffed with feathers, foam, or other soft materials, used to support the head while sleeping."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "blanket",
+                    "description": "A large piece of cloth typically used as bedding, usually warm and cozy."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "wardrobe",
+                    "description": "A tall cupboard or cabinet in which clothes may be hung or stored."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "dresser",
+                    "description": "A piece of furniture with drawers and typically a mirror, used for storing clothes."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "nightstand",
+                    "description": "A small table or cabinet beside a bed, typically with drawers or shelves for storage."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "lamp",
+                    "description": "A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "curtain",
+                    "description": "A piece of material suspended at the top to form a covering or screen, typically one of a pair at a window."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "mirror",
+                    "description": "A reflective surface, typically of glass coated with a metal amalgam, that reflects a clear image."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "carpet",
+                    "description": "A floor covering made from thick woven fabric, typically shaped to fit a particular room."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "window",
+                    "description": "An opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "alarm clock",
+                    "description": "A clock with a mechanism that can be made to sound at the time set in advance, used to wake someone up."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "poster",
+                    "description": "A large printed picture used for decoration."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "shelves",
+                    "description": "A flat, usually rectangular structure composed of a rigid material, such as wood, glass, or metal, fixed at right angles to a wall or other vertical surface and used to support or store objects."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "rug",
+                    "description": "A small carpet woven in a pattern or design, typically one that covers only part of a floor."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "plant",
+                    "description": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "clock",
+                    "description": "A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds, typically by hands on a round dial or by displayed figures."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "bedside table",
+                    "description": "A small table placed alongside a bed."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "comforter",
+                    "description": "A thick, quilted, and often reversible bedcover."
+                }
+            ]
+        },
+        {
+            "deckID": 8,
+            "name": "Weather",
+            "deckDescription": "Weather refers to the state of the atmosphere at a specific time and place, including temperature, precipitation, wind, and atmospheric pressure.",
+            "deckRules": "Can you identify whether each weather condition is associated with hot weather, cold weather, or both?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "sun",
+                    "description": "The star around which the earth orbits, whose light and heat are necessary for life on earth."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "rain",
+                    "description": "Moisture condensed from the atmosphere that falls visibly in separate drops."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "cloud",
+                    "description": "A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "wind",
+                    "description": "The natural movement of air, especially in the form of a current of air blowing from a particular direction."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "snow",
+                    "description": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "storm",
+                    "description": "A violent disturbance of the atmosphere with strong winds, rain, thunder, lightning, or snow."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "temperature",
+                    "description": "The degree or intensity of heat present in a substance or object, especially as expressed according to a comparative scale and shown by a thermometer or perceived by touch."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "humidity",
+                    "description": "The state or quality of being humid, dampness."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "forecast",
+                    "description": "A prediction or estimate of future events, especially coming weather or a financial trend."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "climate",
+                    "description": "The weather conditions prevailing in an area in general or over a long period."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "fog",
+                    "description": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that obscures or restricts visibility."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "hail",
+                    "description": "Pellets of frozen rain that fall in showers from cumulonimbus clouds."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "sunny",
+                    "description": "Filled with sunshine; bright and pleasant."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "cloudy",
+                    "description": "Covered with clouds; overcast."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "windy",
+                    "description": "Characterized by or exposed to strong winds."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "rainy",
+                    "description": "Having a lot of rain; wet or rainy weather."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "snowy",
+                    "description": "Affected by or characterized by snowfall."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "thunder",
+                    "description": "A loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "lightning",
+                    "description": "The occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder."
+                }
+            ]
+        },
+        {
+            "deckID": 9,
+            "name": "Kitchen",
+            "deckDescription": "The kitchen is a room or area in a house or restaurant where food is prepared and cooked. It contains appliances, utensils, and tools for cooking, storing, and serving food.",
+            "deckRules": "Can you match each kitchen item with its corresponding function or use?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "stove",
+                    "description": "A kitchen appliance used for cooking food, typically with an oven and burners on top."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "oven",
+                    "description": "A chamber or compartment with a controlled temperature, used for baking, roasting, or heating food."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "refrigerator",
+                    "description": "An appliance or compartment that is artificially kept cool and used to store food and drink."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "microwave",
+                    "description": "An oven that cooks or heats food by means of electromagnetic radiation."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "sink",
+                    "description": "A fixed basin with a water supply and drainpipe, used for washing dishes and other kitchen utensils."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "dishwasher",
+                    "description": "A machine for washing dishes automatically."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "cupboard",
+                    "description": "A cabinet or closet, typically with shelves, used for storage."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "cutting board",
+                    "description": "A durable board on which to place material for cutting."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "knife",
+                    "description": "A utensil consisting of a long, narrow blade attached to a handle, used for cutting or as a weapon."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "spoon",
+                    "description": "An implement consisting of a small, shallow oval or round bowl on a long handle, used for eating, stirring, or serving food."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "fork",
+                    "description": "An implement with two or more prongs used for holding food steady while cutting or as a utensil for eating."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "plate",
+                    "description": "A flat dish, typically circular and made of china, from which food is eaten or served."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "bowl",
+                    "description": "A round, deep dish or basin used for food."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "cup",
+                    "description": "A small container for drinking from, typically cylindrical and with a handle."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "kettle",
+                    "description": "A metal or plastic container with a handle and spout used for boiling water."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "coffee maker",
+                    "description": "A machine for brewing coffee automatically."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "toaster",
+                    "description": "An appliance for toasting bread."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "mixer",
+                    "description": "A machine or device used for mixing ingredients together, typically in baking."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "utensil",
+                    "description": "A tool, container, or other article, especially for household use."
+                },
+                {
+                    "kartuID": 20,
+                    "term": "cookbook",
+                    "description": "A book containing recipes and other information about the preparation and cooking of food."
+                }
+            ]
+        },
+        {
+            "deckID": 10,
+            "name": "Clothes",
+            "deckDescription": "Clothes are items worn on the body for protection, modesty, or fashion. They include garments such as shirts, pants, dresses, shoes, and accessories.",
+            "deckRules": "Can you categorize each clothing item as suitable for warm weather, cold weather, or both?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "shirt",
+                    "description": "A garment for the upper body, typically with a collar, sleeves, and buttons down the front."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "pants",
+                    "description": "A garment worn by men and women that covers the body from the waist to the ankles, with a separate part for each leg."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "dress",
+                    "description": "A one-piece garment for a woman or girl that covers the body and extends down over the legs."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "skirt",
+                    "description": "A garment worn by women and girls that hangs from the waist and covers the legs."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "jacket",
+                    "description": "A short coat, typically extending to the hips."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "coat",
+                    "description": "A long outer garment worn to protect the body from cold or rain."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "sweater",
+                    "description": "A knitted garment typically with long sleeves, worn over the upper body."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "t-shirt",
+                    "description": "A short-sleeved casual top with a round neckline."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "blouse",
+                    "description": "A woman's upper garment resembling a shirt, typically with a collar, buttons, and sleeves."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "tie",
+                    "description": "A long, narrow piece of cloth, worn, especially by men, under the collar and tied in a knot at the front with the ends hanging down, typically forming part of a man's business or formal outfit."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "scarf",
+                    "description": "A length or square of fabric worn around the neck or head."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "hat",
+                    "description": "A shaped covering for the head, typically with a brim and a crown."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "gloves",
+                    "description": "A covering for the hand worn for protection against cold or dirt and typically having separate parts for each finger and the thumb."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "socks",
+                    "description": "A garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "shoes",
+                    "description": "A covering for the foot, typically made of leather or other material, having a sturdy sole and not reaching above the ankle."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "boots",
+                    "description": "A sturdy item of footwear covering the foot, ankle, and sometimes the lower leg."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "sandals",
+                    "description": "A light shoe with either an openwork upper or straps attaching the sole to the foot."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "belt",
+                    "description": "A strip of leather or other material worn, typically round the waist, to support or hold in clothes or to carry weapons."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "pajamas",
+                    "description": "A loose-fitting garment consisting of trousers and a shirt, worn for sleep or relaxation."
+                }
+            ]
+        },
+        {
+            "deckID": 11,
+            "name": "Sport",
+            "deckDescription": "Sports are physical activities or games that involve skill, competition, and physical exertion. They can be played individually or as part of a team and include various activities such as soccer, basketball, tennis, and swimming.",
+            "deckRules": "Can you match each sport with the equipment or gear typically used for that activity?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "soccer",
+                    "description": "A game played between two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeepers."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "basketball",
+                    "description": "A game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed above each end of the court."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "tennis",
+                    "description": "A game in which two or four players strike a ball with rackets over a net stretched across a court."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "volleyball",
+                    "description": "A game played by two teams of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "baseball",
+                    "description": "A ball game played between two teams of nine on a field with a diamond-shaped circuit of four bases."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "football",
+                    "description": "A form of team game played in North America with an oval ball on a field marked out as a gridiron."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "golf",
+                    "description": "A game played on a large open-air course, in which a small hard ball is struck with a club into a series of small holes in the ground."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "swimming",
+                    "description": "The sport or activity of propelling oneself through water using the limbs."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "running",
+                    "description": "The action or movement of a runner."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "cycling",
+                    "description": "The activity of riding a bicycle, typically as a recreation or sport."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "boxing",
+                    "description": "The sport or practice of fighting with the fists, especially with padded gloves in a roped square ring according to prescribed rules."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "surfing",
+                    "description": "The sport or pastime of riding on waves while standing or lying on a narrow board."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "skiing",
+                    "description": "The action of traveling over snow on skis, especially as a sport or recreation."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "snowboarding",
+                    "description": "The sport of riding downhill on a snowboard."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "hiking",
+                    "description": "The activity of going for long walks, especially in the countryside."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "climbing",
+                    "description": "The activity of ascending mountains or cliffs."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "yoga",
+                    "description": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "dancing",
+                    "description": "The activity of moving rhythmically to music, typically following a set sequence of steps."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "karate",
+                    "description": "A Japanese form of unarmed combat that emphasizes the use of quick, powerful blows and kicks."
+                },
+                {
+                    "kartuID": 20,
+                    "term": "boxing",
+                    "description": "The sport or practice of fighting with the fists, especially with padded gloves in a roped square ring according to prescribed rules."
+                }
+            ]
+        },
+        {
+            "deckID": 12,
+            "name": "Art",
+            "deckDescription": "Art is a diverse range of human activities involving the creation of visual, auditory, or performance artifacts. It includes various forms such as painting, drawing, sculpture, photography, and music.",
+            "deckRules": "Can you identify whether each art-related term is associated with visual arts, performing arts, or both?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "painting",
+                    "description": "The process or art of using paint, in a picture, as a protective coating, or as decoration."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "drawing",
+                    "description": "The art or skill of representing objects or forms on a surface, typically paper, with lines and shades."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "sculpture",
+                    "description": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "photography",
+                    "description": "The art or practice of taking and processing photographs."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "sketch",
+                    "description": "A rough or unfinished drawing or painting, often made to assist in making a more detailed or finished work."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "canvas",
+                    "description": "A strong, coarse unbleached cloth made from hemp, flax, cotton, or a similar yarn, used to make items such as sails and tents and as a surface for painting."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "brush",
+                    "description": "A thin stick with a bunch of bristles or other fibres at one end, used for applying paint or for cleaning things."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "palette",
+                    "description": "A thin board or slab on which an artist lays and mixes colors."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "exhibition",
+                    "description": "A public display of works of art or items of interest, held in an art gallery or museum or at a trade fair."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "gallery",
+                    "description": "A room or building for the display or sale of works of art."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "museum",
+                    "description": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "portrait",
+                    "description": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "landscape",
+                    "description": "A painting, drawing, photograph, or piece of scenery representing outdoor scenery."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "abstract",
+                    "description": "Existing in thought or as an idea but not having a physical or concrete existence."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "impressionism",
+                    "description": "A style or movement in painting originating in France in the 1860s, characterized by a concern with depicting the visual impression of the moment, especially in terms of the shifting effect of light and color."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "modern art",
+                    "description": "Art produced during the late 19th and the 20th century, characterized by a departure from traditional styles and techniques and by a highly individual or innovative approach to subject matter."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "still life",
+                    "description": "A painting or drawing of an arrangement of objects typically including fruit and flowers and objects contrasting with these in texture, such as bowls and glassware."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "abstract art",
+                    "description": "Art that does not attempt to represent an accurate depiction of visual reality but instead uses shapes, colors, forms, and gestural marks to achieve its effect."
+                }
+            ]
+        },
+        {
+            "deckID": 13,
+            "name": "Adjective",
+            "deckDescription": "Adjectives are words that describe or modify nouns and pronouns, providing additional information about their qualities, characteristics, or attributes.",
+            "deckRules": "Can you match each adjective with its opposite or antonym?",
+            "cards": [
+                {
+                    "kartuID": 1,
+                    "term": "happy",
+                    "description": "Feeling or showing pleasure or contentment."
+                },
+                {
+                    "kartuID": 2,
+                    "term": "sad",
+                    "description": "Feeling or showing sorrow; unhappy."
+                },
+                {
+                    "kartuID": 3,
+                    "term": "big",
+                    "description": "Of considerable size or extent."
+                },
+                {
+                    "kartuID": 4,
+                    "term": "small",
+                    "description": "Of a size that is less than normal or usual."
+                },
+                {
+                    "kartuID": 5,
+                    "term": "fast",
+                    "description": "Moving or capable of moving at high speed."
+                },
+                {
+                    "kartuID": 6,
+                    "term": "slow",
+                    "description": "Moving or operating, or intended to do so, only at a low speed."
+                },
+                {
+                    "kartuID": 7,
+                    "term": "beautiful",
+                    "description": "Pleasing the senses or mind aesthetically."
+                },
+                {
+                    "kartuID": 8,
+                    "term": "ugly",
+                    "description": "Unpleasant or repulsive, especially in appearance."
+                },
+                {
+                    "kartuID": 9,
+                    "term": "old",
+                    "description": "Having lived for a long time; no longer young."
+                },
+                {
+                    "kartuID": 10,
+                    "term": "young",
+                    "description": "Having lived or existed for only a short time."
+                },
+                {
+                    "kartuID": 11,
+                    "term": "hot",
+                    "description": "Having a high degree of heat or a high temperature."
+                },
+                {
+                    "kartuID": 12,
+                    "term": "cold",
+                    "description": "Of or at a low or relatively low temperature, especially when compared with the human body."
+                },
+                {
+                    "kartuID": 13,
+                    "term": "strong",
+                    "description": "Having the power to move heavy weights or perform other physically demanding tasks."
+                },
+                {
+                    "kartuID": 14,
+                    "term": "weak",
+                    "description": "Lacking the power to perform physically demanding tasks; not strong."
+                },
+                {
+                    "kartuID": 15,
+                    "term": "tall",
+                    "description": "Of great or more than average height, especially when compared with others."
+                },
+                {
+                    "kartuID": 16,
+                    "term": "short",
+                    "description": "Measuring a small distance from end to end."
+                },
+                {
+                    "kartuID": 17,
+                    "term": "bright",
+                    "description": "Giving out or reflecting a lot of light; shining."
+                },
+                {
+                    "kartuID": 18,
+                    "term": "dark",
+                    "description": "With little or no light."
+                },
+                {
+                    "kartuID": 19,
+                    "term": "loud",
+                    "description": "Producing or capable of producing much noise."
+                },
+                {
+                    "kartuID": 20,
+                    "term": "quiet",
+                    "description": "Making little or no noise."
+                },
+                {
+                    "kartuID": 21,
+                    "term": "smart",
+                    "description": "Having or showing a quick-witted intelligence."
+                },
+                {
+                    "kartuID": 22,
+                    "term": "dumb",
+                    "description": "Unable to speak; lacking the power of speech."
+                },
+                {
+                    "kartuID": 23,
+                    "term": "funny",
+                    "description": "Causing laughter or amusement; humorous."
+                },
+                {
+                    "kartuID": 24,
+                    "term": "serious",
+                    "description": "Demands earnest thought or consideration; not light or superficial."
+                },
+                {
+                    "kartuID": 25,
+                    "term": "hard",
+                    "description": "Solid, firm, and rigid; not easily broken, bent, or pierced."
                 }
             ]
         }
