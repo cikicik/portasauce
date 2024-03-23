@@ -1,0 +1,110 @@
+{
+    "decks": [
+        {
+            "name": "Transportation",
+            "deckDescription": "Description of Transportation Deck",
+            "deckRules": "Rules of Transportation Deck",
+            "cards": [
+                {
+                    "term": "Car",
+                    "description": "A vehicle with four wheels that is powered by an engine and used for transportation."
+                },
+                {
+                    "term": "Bus",
+                    "description": "A large vehicle designed to carry many passengers, typically along a fixed route."
+                },
+                {
+                    "term": "Train",
+                    "description": "A connected series of railroad cars propelled along a track by a locomotive or self-propelled engine."
+                },
+                {
+                    "term": "Bicycle",
+                    "description": "A vehicle with two wheels that is propelled by pedals and steered with handlebars."
+                },
+                {
+                    "term": "Motorcycle",
+                    "description": "A two-wheeled vehicle that is powered by an engine and typically has a saddle for the rider."
+                },
+                {
+                    "term": "Taxi",
+                    "description": "A vehicle that can be hired to transport people from one place to another for a fare."
+                },
+                {
+                    "term": "Subway",
+                    "description": "An underground electric railway system in a city, consisting of interconnected tunnels and stations."
+                },
+                {
+                    "term": "Airplane",
+                    "description": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces."
+                },
+                {
+                    "term": "Helicopter",
+                    "description": "A type of aircraft that derives its lift from blades that rotate around a central mast."
+                },
+                {
+                    "term": "Boat",
+                    "description": "A small vessel for traveling on water, propelled by oars, sails, or an engine."
+                },
+                {
+                    "term": "Ship",
+                    "description": "A large vessel for transporting people or goods by sea."
+                },
+                {
+                    "term": "Ferry",
+                    "description": "A boat or ship used to transport passengers and sometimes vehicles across a body of water."
+                },
+                {
+                    "term": "Truck",
+                    "description": "A large, heavy motor vehicle used for transporting goods, materials, or troops."
+                },
+                {
+                    "term": "Van",
+                    "description": "A covered vehicle used for transporting goods or people, typically without windows at the sides."
+                },
+                {
+                    "term": "Bike",
+                    "description": "A short form of 'bicycle', a vehicle with two wheels that is propelled by pedals."
+                },
+                {
+                    "term": "Motorbike",
+                    "description": "A short form of 'motorcycle', a two-wheeled vehicle that is powered by an engine."
+                },
+                {
+                    "term": "Scooter",
+                    "description": "A small, typically two-wheeled vehicle propelled by an electric motor or a gasoline engine."
+                },
+                {
+                    "term": "Jet",
+                    "description": "A type of aircraft propelled by jet engines, used for transporting passengers or military purposes."
+                },
+                {
+                    "term": "Tram",
+                    "description": "A passenger vehicle that runs on tracks laid in a street, typically serving urban areas."
+                },
+                {
+                    "term": "Cruise Ship",
+                    "description": "A large passenger ship used mainly for pleasure voyages, typically with facilities for recreation and entertainment."
+                }
+            ]
+        },
+        {
+            "name": "Food",
+            "deckDescription": "Description of Food Deck",
+            "deckRules": "Rules of Food Deck",
+            "cards": [
+                {
+                    "term": "Pizza",
+                    "description": "A savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients such as anchovies, mushrooms, onions, olives, pineapple, meat, etc."
+                },
+                {
+                    "term": "Burger",
+                    "description": "A sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun."
+                },
+                {
+                    "term": "Sushi",
+                    "description": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold cooked rice served with a garnish of raw fish, vegetables, or egg."
+                }
+            ]
+        }
+    ]
+}
