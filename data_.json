@@ -1,11 +1,11 @@
 {
-    "decks": [
+    "Deck": [
         {
             "deckID": 1,
             "name": "Transportation",
             "deckDescription": "Transportation is the movement of people or goods from one place to another. It involves various modes such as cars, buses, trains, airplanes, and ships. This topic covers vocabulary related to different means of transportation.",
             "deckRules": "Can you match each mode of transportation with its corresponding description?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "car",
@@ -113,7 +113,7 @@
             "name": "Food",
             "deckDescription": "Food is any substance consumed to provide nutritional support for an organism. It includes a wide variety of items such as fruits, vegetables, meats, grains, and dairy products. This topic covers vocabulary related to different types of food and ingredients.",
             "deckRules": "Can you identify whether each item is a fruit, vegetable, grain, or protein?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "apple",
@@ -216,7 +216,7 @@
             "name": "Travel",
             "deckDescription": "Travel involves moving from one place to another for various purposes such as tourism, business, or visiting family and friends. It includes planning trips, booking accommodations, and exploring new destinations.",
             "deckRules": "Can you match each travel-related term with its definition or use in a sentence?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "passport",
@@ -324,7 +324,7 @@
             "name": "Vacation",
             "deckDescription": "A vacation is a period of time spent away from home or work for relaxation or recreation. It often involves visiting new places, engaging in leisure activities, and spending time with family or friends.",
             "deckRules": "Can you identify whether each activity is typically done during a vacation or not?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "beach",
@@ -427,7 +427,7 @@
             "name": "Profession",
             "deckDescription": "A profession is a type of job or occupation that requires specialized training, skills, and knowledge. It includes various fields such as medicine, education, engineering, law, and business.",
             "deckRules": "Can you match each profession with its corresponding description or required skills?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "doctor",
@@ -530,7 +530,7 @@
             "name": "School",
             "deckDescription": "School is an institution designed for the teaching of students under the direction of teachers. It includes classrooms, teachers, students, subjects, and educational activities.",
             "deckRules": "Can you fill in the blanks with the correct school-related term for each definition or scenario provided?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "student",
@@ -638,7 +638,7 @@
             "name": "Bedroom",
             "deckDescription": "A bedroom is a room in a house or apartment where people sleep and relax. It typically contains furniture such as a bed, dresser, nightstand, and closet.",
             "deckRules": "Can you label each item found in a bedroom with its correct name or function?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "bed",
@@ -741,7 +741,7 @@
             "name": "Weather",
             "deckDescription": "Weather refers to the state of the atmosphere at a specific time and place, including temperature, precipitation, wind, and atmospheric pressure.",
             "deckRules": "Can you identify whether each weather condition is associated with hot weather, cold weather, or both?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "sun",
@@ -844,7 +844,7 @@
             "name": "Kitchen",
             "deckDescription": "The kitchen is a room or area in a house or restaurant where food is prepared and cooked. It contains appliances, utensils, and tools for cooking, storing, and serving food.",
             "deckRules": "Can you match each kitchen item with its corresponding function or use?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "stove",
@@ -952,7 +952,7 @@
             "name": "Clothes",
             "deckDescription": "Clothes are items worn on the body for protection, modesty, or fashion. They include garments such as shirts, pants, dresses, shoes, and accessories.",
             "deckRules": "Can you categorize each clothing item as suitable for warm weather, cold weather, or both?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "shirt",
@@ -1055,7 +1055,7 @@
             "name": "Sport",
             "deckDescription": "Sports are physical activities or games that involve skill, competition, and physical exertion. They can be played individually or as part of a team and include various activities such as soccer, basketball, tennis, and swimming.",
             "deckRules": "Can you match each sport with the equipment or gear typically used for that activity?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "soccer",
@@ -1163,7 +1163,7 @@
             "name": "Art",
             "deckDescription": "Art is a diverse range of human activities involving the creation of visual, auditory, or performance artifacts. It includes various forms such as painting, drawing, sculpture, photography, and music.",
             "deckRules": "Can you identify whether each art-related term is associated with visual arts, performing arts, or both?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "painting",
@@ -1261,7 +1261,7 @@
             "name": "Adjective",
             "deckDescription": "Adjectives are words that describe or modify nouns and pronouns, providing additional information about their qualities, characteristics, or attributes.",
             "deckRules": "Can you match each adjective with its opposite or antonym?",
-            "cards": [
+            "Kartu": [
                 {
                     "kartuID": 1,
                     "term": "happy",
