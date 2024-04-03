@@ -1,0 +1,37 @@
+[
+    {
+        "game_number": 1,
+        "name": "Memory Match",
+        "description": "Match pairs of pictures or words hidden on cards.",
+        "materials": "$appName with matching flashcards.",
+        "rules": "Turn over two cards at a time to find matching pairs. If the cards match, keep them; if not, turn them back over. The player with the most matches wins."
+    },
+    {
+        "game_number": 2,
+        "name": "Act a Flashcard",
+        "description": "Act out words without speaking, while others guess.",
+        "materials": "$appName with flashcards.",
+        "rules": "Pick a card and act out what's on it silently. Others guess what it is. No talking! Switch turns until all cards are used."
+    },
+    {
+        "game_number": 3,
+        "name": "Flashcard Bingo",
+        "description": "Fill a row or pattern on your bingo card using flashcards.",
+        "materials": "Bingo cards with $appName, markers.",
+        "rules": "Listen for a description being called out. If you have the term on your bingo card, mark it. Get a row or pattern marked first to win!"
+    },
+    {
+        "game_number": 4,
+        "name": "Chain Story",
+        "description": "Make up a story using flashcards as inspiration.",
+        "materials": "$appName with flashcards.",
+        "rules": "Pick a card, then make up a story including that word or picture. Use your imagination to create fun tales!"
+    },
+    {
+        "game_number": 5,
+        "name": "Draw it Out!",
+        "description": "Draw pictures of words or concepts for others to guess.",
+        "materials": "$appName with paper and markers.",
+        "rules": "Choose a card and draw what's on it. Others guess what it is. No words allowed! Rotate drawing turns until all cards are used."
+    }
+]
